@@ -16,4 +16,6 @@ password:karachi2022
 Members 
 Hajra Adnan (CS-19072)
 Faraiha Safdar (CS-19065)
-Hajra Adnan (CS-19056)
+Sukaina Kashif (CS-19056)
+Uzma Aijaz (CS-19052)
+
